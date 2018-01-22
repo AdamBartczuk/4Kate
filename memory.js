@@ -86,7 +86,7 @@ function revealCard(nr)
 			}
 
 			turnCounter++;
-			$('.score').html('Turn counter: '+turnCounter);
+			$('.score').html('Licznik rund: '+turnCounter);
 			oneVisible = false;
 		}
 
