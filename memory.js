@@ -103,7 +103,7 @@ function hide2Cards(nr1, nr2)
 
 	if(pairsLeft == 0)
 	{
-		$('.board').html('<h1>Mauryc gratuluje<br>Udało ci się w '+turnCounter+' rund</h1>');
+		$('.board').html('<h1>Maurycy gratuluje<br>Udało ci się w '+turnCounter+' rund</h1>');
 	}
 
 	lock = false;
